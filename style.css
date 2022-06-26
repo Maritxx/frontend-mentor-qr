@@ -1,6 +1,7 @@
 /*Global Styles*/
 body {
 	font-style: var(--body-font);
+	background-color: var(--light-blue)
 }
 
 .threeFourty {
