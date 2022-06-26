@@ -3,14 +3,11 @@
 }
 
 :root {
-  --cyan-light: #3D8168;
-  --cyan-dark: #1A4031;
-  --cream: #F2EBE3;
-  --blue-dark: #1C232B;
-  --blue-med: #6C7289;
+  --light-blue: #D5E1EF;
+  --grey-blue: #7B879D;
+  --navy-blue: #1F3251;
   --white: #FFFFFF;
-  --heading-font: 'Fraunces', 'Georgia', serif;
-  --body-font: 'Montserrat', 'Arial', sans-serif;
+  --body-font: 'Outfit', 'Arial', sans-serif;
 }
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {

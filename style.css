@@ -1,15 +1,66 @@
 /*Global Styles*/
+body {
+	font-style: var(--body-font);
+}
 
+.threeFourty {
+	max-width: 340px;
+	width: 100%;
+}
 
-
+.pad {
+	padding-right: 15px;
+	padding-left: 15px;
+}
 
 
 /*Font Styles*/
 
+h1 {
+	font-size: 32px;
+	color: var(--navy-blue);
+	font-weight: 700;
+}
+
+.qr-code__content p {
+	font-size: 15px;
+	color: var(--grey-blue);
+}
 
 
+/*Container Styling*/
+.page-content {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+/*QR-code component Styling*/
+.qr-code__holder {
+	padding: 15px;
+	background-color: var(--white);
+	border-radius: 5px;
+}
+
+.qr-code__image img {
+	border-radius: 5px;
+}
+
+
+.qr-code__content {
+	padding: 15px;
+	text-align: center;
+}
 
 
 /*Attribution Styling*/
-    .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+.attribution {
+	font-size: 11px; 
+	text-align: center; 
+	margin-top: 10px;
+}
+
+.attribution a { 
+	color: hsl(228, 45%, 44%); 
+}
