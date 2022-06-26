@@ -46,6 +46,7 @@ h1 {
 
 .qr-code__image img {
 	border-radius: 5px;
+	width: 100%;
 }
 
 
